@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emkacztoja
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python and C#
+- 👀 Interested in AI
+- 🌱 Currently learning Python🐍, C#, HTML and JavaScript
 - 📫 You can reach me on:
 - instagram: @emkacztoja
 - gmail: emkacztoja@gmail.com
