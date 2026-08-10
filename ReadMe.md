@@ -1,104 +1,134 @@
-# 💫 Hello, I'm Aleksander Kowalczuk! 
+<div align="center">
 
-A highly analytical and systems-focused **Software Developer** specializing in full-stack JavaScript/TypeScript ecosystems, backend Java frameworks, and robust software-hardware integrations. 
+# Aleksander Kowalczuk
 
-📍 Warsaw, Poland | 🌐 [emkacz.pl](https://emkacz.pl) | ✉️ [akowalczuk@emkacz.pl](mailto:akowalczuk@emkacz.pl) | 🔗 [LinkedIn](https://linkedin.com/in/aleksander-kowalczuk)
+### Software Developer · Web Systems · Automation · Integrations
 
----
+Warsaw, Poland · Incoming Computer Science student at PJATK
 
-### 🚀 Professional Profile
-* 💻 **Full-Stack Systems Engineer**: Experienced in orchestrating software for high-concurrency environments, implementing automated file verification engines, and building cross-service middleware.
-* 🛠️ **Systems & Hardware**: Comfortable writing firmware for ESP32 microcontrollers as well as administrating Linux/Debian VPS environments and Nginx proxy servers.
-* 🤖 **AI-Augmented Engineering**: Leverage LLMs as interactive thinking tools to explore architectures, perform adversarial code reviews, and accelerate feature delivery.
+<a href="https://emkacz.dev"><img src="https://img.shields.io/badge/Portfolio-emkacz.dev-13263F?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/aleksander-kowalczuk"><img src="https://img.shields.io/badge/LinkedIn-Aleksander_Kowalczuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/emkacztoja"><img src="https://img.shields.io/badge/GitHub-emkacztoja-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:emkacz@protonmail.com"><img src="https://img.shields.io/badge/Email-emkacz%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 
----
-
-### 📂 Featured Projects
-
-#### 🎮 Wingman — Real-Time Infrastructure Dashboard
-*A modern, dark-mode-first dashboard optimized for real-time tracking of infrastructure metrics across multiple remote game servers.*
-* **Stack:** Vite, React, TypeScript, Tailwind CSS, shadcn/ui, Axios
-* **Key Features:** Live system analytics computation using multi-endpoint polling, aggregating CPU, RAM, and Disk resource thresholds dynamically. Custom Vite reverse-proxy configuration to mitigate CORS constraints.
-
-#### ⚙️ SWSK — Delta Synchronization Launcher
-*A standalone desktop game launcher specializing in automated deployment and verification of modular game profiles.*
-* **Stack:** TypeScript, Vue, Electron, Node.js File System APIs
-* **Key Features:** Hash-based synchronization module (`sha1`) that dynamically computes local file system deltas against a remote manifest to safely update or back up modified assets.
-
-#### 🛡️ Spring Boot Middleware — DirtCraft.net
-*Secure communication bridge between administrative web dashboards and internal modded game servers.*
-* **Stack:** Spring Boot, Java, REST APIs, WebSocket Protocol
-* **Key Features:** Optimized data serialization pipelines to maintain reliable service synchronization for a community scale of 1,200+ Discord users and active live concurrent players.
-
-#### 📟 ESP32 Hardware VPS Monitoring Station
-*Dedicated hardware-based system monitoring station rendering real-time VPS utilization statistics.*
-* **Stack:** C++, Arduino IDE, Python, JSON APIs
-* **Key Features:** Secure server-side Python exporter exposing hardware performance statistics via a JSON API polled and rendered by an ESP32 microcontroller LCD.
+</div>
 
 ---
 
-### 💻 Tech Stack & Tooling
+## About me
+
+I build practical software that connects polished interfaces with the systems behind them. My work spans business websites, real-time dashboards, desktop launchers, backend services, automation, and hardware-backed monitoring tools.
+
+I enjoy taking a rough idea, understanding the real constraints, and turning it into something usable, maintainable, and ready to run in the real world. I also use AI as an engineering multiplier: for exploration, prototyping, debugging, documentation, and sharper technical decisions.
+
+## What I build
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h4>⚡ Languages & Core</h4>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>Web products</h3>
+      User-facing websites, admin panels, and responsive dashboards with a strong focus on clarity, usability, and visual polish.
     </td>
-    <td valign="top" width="50%">
-      <h4>🛡️ Backend & Middleware</h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>Systems & APIs</h3>
+      Backend services, middleware, REST APIs, WebSockets, authentication flows, and integrations between separate systems.
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <h4>🎨 Frontend & UI</h4>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>Automation</h3>
+      Launchers, release workflows, file verification, delta synchronization, and tools that remove repetitive manual work.
     </td>
-    <td valign="top" width="50%">
-      <h4>🔌 Infrastructure & Hardware</h4>
-      <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/ESP32_Microcontrollers-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>Software + hardware</h3>
+      Small systems that connect software, VPS infrastructure, APIs, microcontrollers, and physical displays.
     </td>
   </tr>
 </table>
 
----
+## Featured work
 
-### 📊 GitHub Stats & Insights
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Wingman</h3>
+      <strong>Real-time infrastructure dashboard</strong>
+      <p>A full-stack control panel for remote game servers, combining live resource metrics with operational tools such as console access, backups, files, databases, schedules, and server management.</p>
+      <sub><strong>Stack:</strong> React · TypeScript · Vite · Tailwind CSS · Radix UI · Node.js · Axios · Recharts</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SWSK</h3>
+      <strong>Delta synchronization launcher</strong>
+      <p>A desktop launcher for modular game profiles, built around deterministic updates, local file verification, remote manifests, and safer handling of modified assets.</p>
+      <sub><strong>Stack:</strong> TypeScript · Vue · Electron · Node.js · File System APIs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DirtCraft.net</h3>
+      <strong>Website for a modded Minecraft network</strong>
+      <p>A public-facing web platform for the DirtCraft community, with a modern React interface, routing, authentication, and Supabase-powered flows.</p>
+      <sub><strong>Stack:</strong> React · TypeScript · Vite · Tailwind CSS · Supabase · React Router</sub>
+      <p><a href="https://dirtcraft.net">Visit dirtcraft.net →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ESP32 VPS Monitoring Station</h3>
+      <strong>Software-hardware telemetry system</strong>
+      <p>A dedicated monitoring station that exposes VPS performance data through a lightweight JSON API and renders it on an ESP32-connected display.</p>
+      <sub><strong>Stack:</strong> C++ · Arduino · Python · JSON APIs · ESP32</sub>
+    </td>
+  </tr>
+</table>
+
+## Toolbox
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Core</strong><br>
+      <code>TypeScript</code> <code>JavaScript</code> <code>Java</code> <code>Python</code> <code>C++</code>
+      <br><br>
+      <strong>Frontend</strong><br>
+      <code>React</code> <code>Vue</code> <code>Vite</code> <code>Tailwind CSS</code> <code>HTML</code> <code>CSS</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Backend & APIs</strong><br>
+      <code>Node.js</code> <code>Spring Boot</code> <code>Express</code> <code>REST</code> <code>WebSockets</code> <code>SQL</code>
+      <br><br>
+      <strong>Infrastructure & Hardware</strong><br>
+      <code>Linux</code> <code>Nginx</code> <code>VPS</code> <code>ESP32</code> <code>Arduino</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong>Tools & platforms</strong><br>
+      <code>Git</code> <code>GitHub</code> <code>Electron</code> <code>Supabase</code> <code>Prisma</code> <code>Axios</code> <code>AI-assisted development</code>
+    </td>
+  </tr>
+</table>
+
+## How I work
+
+- **Systems first:** I try to understand the whole flow, not just the visible interface.
+- **End-to-end ownership:** I like taking projects from requirements and architecture through implementation, deployment, and iteration.
+- **Useful over impressive:** A solution should be understandable, dependable, and helpful to its users.
+- **AI-augmented engineering:** I use AI to explore ideas faster, challenge assumptions, review code, and reduce repetitive work.
+
+## Currently
+
+- Preparing to begin Computer Science at the Polish-Japanese Academy of Information Technology in October 2026.
+- Building and refining web products, infrastructure tools, and integrations.
+- Expanding my experience across frontend engineering, backend systems, and practical deployment.
+
+## Let's connect
+
+If you are building something that sits between product experience and real systems, I would be happy to talk.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emkacztoja&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emkacztoja&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emkacztoja&theme=dark&hide_border=false" width="97%" />
-</div>
-
----
-
-<div align="center">
-  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/emkacztoja)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akowalczuk@emkacz.pl)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=emkacztoja&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://emkacz.dev">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/aleksander-kowalczuk">LinkedIn</a> ·
+<a href="https://github.com/emkacztoja">GitHub</a> ·
+<a href="mailto:emkacz@protonmail.com">emkacz@protonmail.com</a>
 
 </div>
