@@ -4,7 +4,7 @@
 
 ### Software Developer · Web Systems · Automation · Integrations
 
-Warsaw, Poland · Incoming Computer Science student at PJATK
+Warsaw, Poland · Computer Science student at PJATK
 
 <a href="https://emkacz.dev"><img src="https://img.shields.io/badge/Portfolio-emkacz.dev-13263F?style=for-the-badge" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/aleksander-kowalczuk"><img src="https://img.shields.io/badge/LinkedIn-Aleksander_Kowalczuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
