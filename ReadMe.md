@@ -9,7 +9,7 @@ Warsaw, Poland · Incoming Computer Science student at PJATK
 <a href="https://emkacz.dev"><img src="https://img.shields.io/badge/Portfolio-emkacz.dev-13263F?style=for-the-badge" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/aleksander-kowalczuk"><img src="https://img.shields.io/badge/LinkedIn-Aleksander_Kowalczuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/emkacztoja"><img src="https://img.shields.io/badge/GitHub-emkacztoja-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:emkacz@protonmail.com"><img src="https://img.shields.io/badge/Email-emkacz%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
+<a href="mailto:aleksander@emkacz.pl"><img src="https://img.shields.io/badge/Email-aleksander%40emkacz.pl-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 
 </div>
 
