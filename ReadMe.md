@@ -129,6 +129,6 @@ If you are building something that sits between product experience and real syst
 <a href="https://emkacz.dev">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/aleksander-kowalczuk">LinkedIn</a> ·
 <a href="https://github.com/emkacztoja">GitHub</a> ·
-<a href="mailto:emkacz@protonmail.com">emkacz@protonmail.com</a>
+<a href="mailto:aleksander@emkacz.pl">aleksander@emkacz.pl</a>
 
 </div>
