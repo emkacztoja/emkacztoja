@@ -2,14 +2,14 @@
 
 # Aleksander Kowalczuk
 
-### Software Developer · Web Systems · Automation · Integrations
+### Software Developer · Full-Stack Web · Backend Systems · Automation
 
-Warsaw, Poland · Computer Science student at PJATK
+Computer Science student at PJATK · Warsaw, Poland
 
 <a href="https://emkacz.dev"><img src="https://img.shields.io/badge/Portfolio-emkacz.dev-13263F?style=for-the-badge" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/aleksander-kowalczuk"><img src="https://img.shields.io/badge/LinkedIn-Aleksander_Kowalczuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/emkacztoja"><img src="https://img.shields.io/badge/GitHub-emkacztoja-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:aleksander@emkacz.pl"><img src="https://img.shields.io/badge/Email-aleksander%40emkacz.pl-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
+<a href="mailto:aleksander@emkacz.dev"><img src="https://img.shields.io/badge/Email-Get_in_touch-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -17,118 +17,135 @@ Warsaw, Poland · Computer Science student at PJATK
 
 ## About me
 
-I build practical software that connects polished interfaces with the systems behind them. My work spans business websites, real-time dashboards, desktop launchers, backend services, automation, and hardware-backed monitoring tools.
+I'm a software developer and Computer Science student at the **Polish-Japanese Academy of Information Technology (PJATK)** in Warsaw. I've been building software independently since 2022, with a focus on **full-stack applications, backend services, automation, and infrastructure**.
 
-I enjoy taking a rough idea, understanding the real constraints, and turning it into something usable, maintainable, and ready to run in the real world. I also use AI as an engineering multiplier: for exploration, prototyping, debugging, documentation, and sharper technical decisions.
+I work across the entire lifecycle of a project: understanding the problem, designing the system, implementing the interface and APIs, and deploying and maintaining the result. I particularly enjoy projects where multiple technologies need to work together reliably.
+
+My recent work includes production websites for businesses, a reusable form-processing platform, a Discord analytics system, and self-hosted development infrastructure. I use AI-assisted tools to accelerate research, prototyping, testing, and code review—while keeping architecture and implementation decisions grounded in the actual requirements.
 
 ## What I build
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Web products</h3>
-      User-facing websites, admin panels, and responsive dashboards with a strong focus on clarity, usability, and visual polish.
+      <h3>Web applications</h3>
+      Business websites, content management tools, admin panels, and responsive dashboards built for real users.
     </td>
     <td width="50%" valign="top">
-      <h3>Systems & APIs</h3>
-      Backend services, middleware, REST APIs, WebSockets, authentication flows, and integrations between separate systems.
+      <h3>Backend systems & APIs</h3>
+      Authentication, data models, REST APIs, integrations, background jobs, and reliable application workflows.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Automation</h3>
-      Launchers, release workflows, file verification, delta synchronization, and tools that remove repetitive manual work.
+      <h3>Automation & developer tools</h3>
+      CI/CD pipelines, file synchronization, release workflows, bots, and tools that replace repetitive manual work.
     </td>
     <td width="50%" valign="top">
-      <h3>Software + hardware</h3>
-      Small systems that connect software, VPS infrastructure, APIs, microcontrollers, and physical displays.
+      <h3>Infrastructure & hardware</h3>
+      Docker-based deployments, Linux servers, monitoring systems, and integrations with microcontrollers and physical devices.
     </td>
   </tr>
 </table>
 
-## Featured work
+## Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Wingman</h3>
-      <strong>Real-time infrastructure dashboard</strong>
-      <p>A full-stack control panel for remote game servers, combining live resource metrics with operational tools such as console access, backups, files, databases, schedules, and server management.</p>
-      <sub><strong>Stack:</strong> React · TypeScript · Vite · Tailwind CSS · Radix UI · Node.js · Axios · Recharts</sub>
+      <h3><a href="https://detail-wash.pl">Detail-Wash ↗</a></h3>
+      <strong>Production website for an automotive business</strong>
+      <p>Designed, developed, and deployed a bilingual business website with structured service pages, responsive layouts, search-engine metadata, and contact forms connected to a dedicated backend.</p>
+      <sub><strong>Focus:</strong> Frontend · UX · SEO · Forms · Deployment</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>SWSK</h3>
-      <strong>Delta synchronization launcher</strong>
-      <p>A desktop launcher for modular game profiles, built around deterministic updates, local file verification, remote manifests, and safer handling of modified assets.</p>
-      <sub><strong>Stack:</strong> TypeScript · Vue · Electron · Node.js · File System APIs</sub>
+      <h3>Central Forms Platform</h3>
+      <strong>Reusable form-processing and administration system</strong>
+      <p>Built a standalone service for receiving, validating, storing, and delivering form submissions across multiple websites. Includes an admin dashboard, anti-spam protection, rate limiting, delivery retries, and backup handling.</p>
+      <sub><strong>Stack:</strong> Node.js · Fastify · React · TypeScript · Drizzle ORM · SQLite · Zod · Cloudflare Turnstile · Docker</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>DirtCraft.net</h3>
-      <strong>Website for a modded Minecraft network</strong>
-      <p>A public-facing web platform for the DirtCraft community, with a modern React interface, routing, authentication, and Supabase-powered flows.</p>
-      <sub><strong>Stack:</strong> React · TypeScript · Vite · Tailwind CSS · Supabase · React Router</sub>
-      <p><a href="https://dirtcraft.net">Visit dirtcraft.net →</a></p>
+      <h3>LARP Analytics</h3>
+      <strong>Discord telemetry and community analytics</strong>
+      <p>Developed a Discord bot and web platform that collects activity signals, tracks XP and achievements, manages reputation, and presents member statistics. The system includes role-based administration, audit trails, scheduled reports, and optional AI-generated commentary.</p>
+      <sub><strong>Stack:</strong> TypeScript · Discord.js · Next.js · Fastify · PostgreSQL · Drizzle ORM · Docker</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>ESP32 VPS Monitoring Station</h3>
-      <strong>Software-hardware telemetry system</strong>
-      <p>A dedicated monitoring station that exposes VPS performance data through a lightweight JSON API and renders it on an ESP32-connected display.</p>
-      <sub><strong>Stack:</strong> C++ · Arduino · Python · JSON APIs · ESP32</sub>
+      <h3>Wingman</h3>
+      <strong>Real-time infrastructure dashboard</strong>
+      <p>A full-stack control panel for remote game servers, combining live resource metrics with operational tools for console access, backups, files, databases, schedules, and server management.</p>
+      <sub><strong>Stack:</strong> React · TypeScript · Vite · Tailwind CSS · Radix UI · Node.js · Recharts</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Personal CMS & Blog</h3>
+      <strong>Content publishing and media management</strong>
+      <p>A custom publishing system with rich-text editing, autosave, revision history, previews, authentication, and object storage for media. Built to support content published through my own websites.</p>
+      <sub><strong>Stack:</strong> TypeScript · Tiptap · Better Auth · Cloudflare R2 · Docker · Coolify</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SWSK</h3>
+      <strong>Delta synchronization desktop launcher</strong>
+      <p>A launcher for modular game profiles, built around deterministic updates, local file verification, remote manifests, and controlled handling of modified files.</p>
+      <sub><strong>Stack:</strong> TypeScript · Vue · Electron · Node.js · File System APIs</sub>
     </td>
   </tr>
 </table>
+
+**Other work:** <a href="https://dirtcraft.net">DirtCraft.net</a>, a React-based website for a modded Minecraft community, and an **ESP32 VPS Monitoring Station** that combines a Python telemetry API with an embedded display.
 
 ## Toolbox
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Core</strong><br>
-      <code>TypeScript</code> <code>JavaScript</code> <code>Java</code> <code>Python</code> <code>C++</code>
+      <strong>Languages</strong><br>
+      <code>TypeScript</code> <code>JavaScript</code> <code>Python</code> <code>Java</code> <code>C++</code>
       <br><br>
       <strong>Frontend</strong><br>
-      <code>React</code> <code>Vue</code> <code>Vite</code> <code>Tailwind CSS</code> <code>HTML</code> <code>CSS</code>
+      <code>React</code> <code>Next.js</code> <code>Vue</code> <code>Vite</code> <code>Tailwind CSS</code> <code>HTML</code> <code>CSS</code>
     </td>
     <td width="50%" valign="top">
-      <strong>Backend & APIs</strong><br>
-      <code>Node.js</code> <code>Spring Boot</code> <code>Express</code> <code>REST</code> <code>WebSockets</code> <code>SQL</code>
+      <strong>Backend & data</strong><br>
+      <code>Node.js</code> <code>Fastify</code> <code>Express</code> <code>Spring Boot</code> <code>REST APIs</code> <code>WebSockets</code> <code>PostgreSQL</code> <code>SQLite</code>
       <br><br>
-      <strong>Infrastructure & Hardware</strong><br>
-      <code>Linux</code> <code>Nginx</code> <code>VPS</code> <code>ESP32</code> <code>Arduino</code>
+      <strong>Data & authentication tools</strong><br>
+      <code>Drizzle ORM</code> <code>Prisma</code> <code>Supabase</code> <code>Better Auth</code> <code>Zod</code>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <strong>Tools & platforms</strong><br>
-      <code>Git</code> <code>GitHub</code> <code>Electron</code> <code>Supabase</code> <code>Prisma</code> <code>Axios</code> <code>AI-assisted development</code>
+      <strong>Infrastructure & development</strong><br>
+      <code>Docker</code> <code>Linux</code> <code>Proxmox</code> <code>Coolify</code> <code>Nginx</code> <code>Cloudflare</code> <code>Git</code> <code>GitHub</code> <code>Gitea</code> <code>Woodpecker CI</code> <code>ESP32</code>
     </td>
   </tr>
 </table>
 
-## How I work
+## Engineering approach
 
-- **Systems first:** I try to understand the whole flow, not just the visible interface.
-- **End-to-end ownership:** I like taking projects from requirements and architecture through implementation, deployment, and iteration.
-- **Useful over impressive:** A solution should be understandable, dependable, and helpful to its users.
-- **AI-augmented engineering:** I use AI to explore ideas faster, challenge assumptions, review code, and reduce repetitive work.
+- **Think in systems.** Understand the complete workflow, dependencies, failure modes, and operational requirements—not just the interface.
+- **Own the lifecycle.** Work from requirements and architecture through implementation, testing, deployment, and maintenance.
+- **Build for actual use.** Prioritize reliability, understandable code, security, and maintainability over unnecessary complexity.
+- **Use AI deliberately.** Apply AI-assisted tools for research, experimentation, debugging, and review, with human verification of the results.
 
 ## Currently
 
-- Preparing to begin Computer Science at the Polish-Japanese Academy of Information Technology in October 2026.
-- Building and refining web products, infrastructure tools, and integrations.
-- Expanding my experience across frontend engineering, backend systems, and practical deployment.
+- Studying **Computer Science at PJATK** in Warsaw.
+- Building and maintaining websites and supporting systems for real clients.
+- Developing self-hosted tools and exploring machine learning and AI application engineering.
 
 ## Let's connect
 
-If you are building something that sits between product experience and real systems, I would be happy to talk.
+I'm interested in **software engineering opportunities, internships, and collaborations** involving web applications, backend systems, automation, or infrastructure.
 
 <div align="center">
 
 <a href="https://emkacz.dev">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/aleksander-kowalczuk">LinkedIn</a> ·
 <a href="https://github.com/emkacztoja">GitHub</a> ·
-<a href="mailto:aleksander@emkacz.pl">aleksander@emkacz.pl</a>
+<a href="mailto:aleksander@emkacz.dev">aleksander@emkacz.dev</a>
 
 </div>
