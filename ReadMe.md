@@ -53,7 +53,7 @@ My recent work includes production websites for businesses, a reusable form-proc
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://detail-wash.pl">Detail-Wash ↗</a></h3>
+      <h3><a href="https://detail-wash.pl">Detail-Wash </a></h3>
       <strong>Production website for an automotive business</strong>
       <p>Designed, developed, and deployed a bilingual business website with structured service pages, responsive layouts, search-engine metadata, and contact forms connected to a dedicated backend.</p>
       <sub><strong>Focus:</strong> Frontend · UX · SEO · Forms · Deployment</sub>
